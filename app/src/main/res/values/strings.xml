@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cadastro de produtos</string>
+    <string name="btnCadastrar">Cadastrar</string>
+</resources>
